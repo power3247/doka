@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doka/static/css/main.e4cd1aad.css",
+    "main.js": "/doka/static/js/main.35009238.js",
+    "static/js/787.cda612ba.chunk.js": "/doka/static/js/787.cda612ba.chunk.js",
+    "index.html": "/doka/index.html",
+    "main.e4cd1aad.css.map": "/doka/static/css/main.e4cd1aad.css.map",
+    "main.35009238.js.map": "/doka/static/js/main.35009238.js.map",
+    "787.cda612ba.chunk.js.map": "/doka/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4cd1aad.css",
+    "static/js/main.35009238.js"
+  ]
+}
