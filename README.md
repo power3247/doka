@@ -17,7 +17,7 @@
 ## 🧰 Tech Stack
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.4.5
 - Spring Web
 - Lombok
 - (H2 / JPA 없이 동작)
